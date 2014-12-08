@@ -1,0 +1,6 @@
+D:\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe.config
+D:\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe
+D:\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+D:\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+D:\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.exe
+D:\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
